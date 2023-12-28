@@ -7,6 +7,6 @@ The Space Data Analysis project focuses on examining global rocket launches and 
 
 ## Accessing the Live Report
 
-[Insert link to the live Power BI report hosted on a platform like Power BI Service or Power BI Embedded]
+[https://app.powerbi.com/groups/me/reports/b1af6d30-b18a-42d6-a7dc-e663a1b016f9/ReportSection?experience=power-bi]
 
 
