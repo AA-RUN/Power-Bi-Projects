@@ -6,7 +6,7 @@ The project encompasses the extraction, cleaning, and analysis of HR data from v
 
 ## Accessing the Live Report
 
-[Insert link to the live Power BI report hosted on a platform like Power BI Service or Power BI Embedded]
+[https://app.powerbi.com/view?r=eyJrIjoiY2ZjMjg4MDQtOGU4OC00ODMzLWIyNTMtODY0NGE0MDFlMzI2IiwidCI6IjE4NzhlN2VkLWI5NDctNDI1NC1hODgyLTYzZDAxZjNiNTJmNyIsImMiOjZ9]
 
 ## Additional Information
 
