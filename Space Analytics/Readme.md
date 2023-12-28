@@ -1,10 +1,9 @@
 
-# Olympic History Data Visualization
+# Space Data Analysis: Rocket Launches and Missions
 
 ## Project Overview
 
-Unraveling the Olympic Tapestry (1896-2016)
-This Power BI project embarks on a fascinating journey through the history of the modern Olympic Games, from Athens 1896 to Rio 2016. Armed with rich historical data, we delve into the world of athletic excellence, uncovering captivating insights about the pursuit of Olympic glory
+The Space Data Analysis project focuses on examining global rocket launches and space missions, exploring data points such as launch success rates, failure rates, and the prevalence of specific rocket models. The project utilizes comprehensive data sets to provide insights into the performance and trends of space missions across different countries and organizations.
 
 ## Accessing the Live Report
 
