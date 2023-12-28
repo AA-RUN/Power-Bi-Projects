@@ -1,6 +1,4 @@
 
-Here's a draft for your README file, incorporating insights from the image and essential elements:
-
 # Olympic History Data Visualization
 
 ## Project Overview
